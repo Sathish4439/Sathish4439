@@ -35,16 +35,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sathish4439&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-  
-  <br/>
-  
-  ### 🏆 **GitHub Achievements**
-  
-  ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Achievement-16F2B3?style=for-the-badge&logo=github&logoColor=white)
-  
-</div>
 
 ## 👨‍💻 About Me
 
@@ -56,15 +46,6 @@ I am experienced in version control and collaboration using **Git** and **GitHub
 
 **I am available for freelance projects as well as full-time opportunities that align with my skills and professional interests.**
 
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Sathish4439&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=16F2B3&icon_color=16F2B3&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sathish4439&theme=tokyonight&hide_border=true&background=0D1117&ring=16F2B3&fire=16F2B3&currStreakLabel=16F2B3" alt="GitHub Streak" />
-  
 </div>
 
 <br/>
@@ -362,29 +343,11 @@ A reusable login component with authentication features and smooth animations.
 
 <div align="center">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish4439&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=16F2B3&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages" />
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sathish4439&theme=tokyonight" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sathish4439&theme=tokyonight" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sathish4439&theme=tokyonight" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sathish4439&theme=tokyonight" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sathish4439&theme=tokyonight" alt="Productive Time" />
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
-  ### 🐍 **Contribution Snake**
-  
-  ![Snake animation](https://raw.githubusercontent.com/Sathish4439/Sathish4439/output/github-contribution-grid-snake.svg)
   
 </div>
 
