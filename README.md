@@ -279,6 +279,16 @@ I am experienced in version control and collaboration using **Git** and **GitHub
 
 <br/>
 
+<div align="center">
+  
+  ### 🐍 **Contribution Snake**
+  
+  ![Snake animation](https://github.com/Sathish4439/Sathish4439/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<br/>
+
 ## 📧 Let's Connect!
 
 <div align="center">
