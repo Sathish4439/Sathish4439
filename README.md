@@ -9,6 +9,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=Sathish4439&label=Profile%20Views&color=16F2B3&style=for-the-badge)
   ![GitHub Followers](https://img.shields.io/github/followers/Sathish4439?label=Followers&style=for-the-badge&color=16F2B3)
   ![GitHub Stars](https://img.shields.io/github/stars/Sathish4439?label=Stars&style=for-the-badge&color=16F2B3)
+  ![Repositories](https://img.shields.io/badge/Repositories-36-blue?style=for-the-badge&logo=github&logoColor=white)
   
 </div>
 
@@ -36,6 +37,13 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sathish4439&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  
+  <br/>
+  
+  ### 🏆 **GitHub Achievements**
+  
+  ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Achievement-16F2B3?style=for-the-badge&logo=github&logoColor=white)
+  
 </div>
 
 ## 👨‍💻 About Me
@@ -232,6 +240,99 @@ I am experienced in version control and collaboration using **Git** and **GitHub
 - **Tech Stack:** Flutter, Dart, Node.js, Express.js, PostgreSQL, Prisma, JWT, Firebase, Google Maps API, QR Code, PDF Generation
 
 </details>
+
+## 💻 GitHub Repositories
+
+<div align="center">
+  
+  <p>Check out my <strong>36+ repositories</strong> on GitHub! Here are some of my popular open-source projects:</p>
+  
+</div>
+
+### 🔥 Popular Repositories
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🧭 Gnav
+
+**Google Navigation Bar**  
+A Flutter implementation of Google's navigation bar with smooth animations and customizable design.
+
+🔗 [View Repository](https://github.com/Sathish4439/Gnav)  
+💻 **Tech:** `Dart` • `Flutter`
+
+</td>
+<td width="50%">
+
+#### 📱 Drawer
+
+**Custom Drawer Component**  
+A highly customizable drawer component built with Flutter, featuring smooth animations and modern UI.
+
+🔗 [View Repository](https://github.com/Sathish4439/Drawer)  
+💻 **Tech:** `Dart` • `Flutter`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🛒 shopify
+
+**Shopify Integration**  
+Flutter package for integrating Shopify e-commerce functionality into mobile applications.
+
+🔗 [View Repository](https://github.com/Sathish4439/shopify)  
+💻 **Tech:** `Dart` • `Flutter`
+
+</td>
+<td width="50%">
+
+#### 🎨 stickerapp
+
+**Sticker Application**  
+A Flutter-based sticker app with custom sticker creation and sharing features.
+
+🔗 [View Repository](https://github.com/Sathish4439/stickerapp)  
+💻 **Tech:** `Dart` • `Flutter`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🔐 login_page
+
+**Highly Responsive Login Page**  
+A beautifully designed, highly responsive login page built with Flutter, featuring modern UI/UX.
+
+🔗 [View Repository](https://github.com/Sathish4439/login_page)  
+💻 **Tech:** `Dart` • `Flutter`
+
+</td>
+<td width="50%">
+
+#### 🔑 Login
+
+**Login Component**  
+A reusable login component with authentication features and smooth animations.
+
+🔗 [View Repository](https://github.com/Sathish4439/Login)  
+💻 **Tech:** `Dart` • `Flutter`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
+  <a href="https://github.com/Sathish4439?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View-All%20Repositories-16F2B3?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+  </a>
+  
+</div>
 
 ## 💼 Work Experience
 
