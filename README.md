@@ -384,7 +384,7 @@ A reusable login component with authentication features and smooth animations.
   
   ### 🐍 **Contribution Snake**
   
-  ![Snake animation](https://github.com/Sathish4439/Sathish4439/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Sathish4439/Sathish4439/output/github-contribution-grid-snake.svg)
   
 </div>
 
