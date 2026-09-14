@@ -7,6 +7,18 @@
 <br/>
 
 <div align="center">
+  <a href="https://www.sathishdev.in" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐_EXPLORE_MY_LIVE_PORTFOLIO-www.sathishdev.in-16F2B3?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117" height="42" alt="Explore Sathish Dev Live Portfolio" />
+  </a>
+  <p>
+    <b>🚀 Interactive Case Studies • Live Demos • Architecture Deep-Dives • Production Metrics</b><br/>
+    👉 <a href="https://www.sathishdev.in"><b>https://www.sathishdev.in</b></a>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Sathish4439&label=Profile%20Views&color=16F2B3&style=for-the-badge)
   ![GitHub Followers](https://img.shields.io/github/followers/Sathish4439?label=Followers&style=for-the-badge&color=16F2B3)
@@ -431,10 +443,13 @@ Retrieval-Augmented Generation pipeline using Playwright scraping, Qdrant Cloud 
 ## 📧 Let's Connect & Collaborate!
 
 <div align="center">
-  
-  <a href="https://www.sathishdev.in">
-    <img src="https://img.shields.io/badge/Portfolio-www.sathishdev.in-16F2B3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+
+  <a href="https://www.sathishdev.in" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO_WEBSITE-www.sathishdev.in-16F2B3?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117" height="42" alt="Visit Sathish Dev Portfolio Website" />
   </a>
+
+  <br/><br/>
+
   <a href="mailto:sathishg.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-sathishg.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
