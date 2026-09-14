@@ -1,7 +1,7 @@
 # Sathish Dev | Flutter Developer & Full Stack Systems Engineer — Coimbatore, India
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=16F2B3&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sathish+G!+👋;Full-Stack+Software+Engineer+%26+Mobile+Architect;Flutter+%7C+Node.js+22+%7C+PostgreSQL+%7C+React+19;Building+Mission-Critical+Real-Time+Systems;Offline-First+POS+%7C+Distributed+SMS+Gateways;Open+to+Exciting+Engineering+Opportunities!" alt="Sathish Dev Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=16F2B3&center=true&vCenter=true&width=860&lines=Hi+there%2C+I'm+Sathish+G!+%F0%9F%91%8B;Full-Stack+Developer+%26+Mobile+Architect;Flutter+%7C+Node.js+%7C+PostgreSQL+%7C+React;Building+Production+Real-Time+Systems;Offline-First+POS+%26+Distributed+Gateways;Open+to+Exciting+Engineering+Roles!" alt="Sathish Dev Typing SVG" />
 </div>
 
 <br/>
@@ -80,23 +80,64 @@ With **2+ years** of hands-on production engineering experience, I design, archi
 
 ---
 
-## 🛠️ Technology Stack & Competencies
+## 🛠️ Technology Stack & Architecture Competencies
 
-### 📱 Mobile & Frontend Engineering
-* **Frameworks & Languages**: Flutter, Dart, Kotlin Android Native, React 19, Next.js 14, TypeScript, JavaScript (ES6+)
-* **UI & Styling**: Responsive Web Design, Tailwind CSS 4, HTML5, CSS3, High-Density Telemetry Dashboards
-* **State Management & Architecture**: Provider, GetX, React Hooks, Clean Modular MVVM Architecture
-* **Hardware & Device Protocols**: ESC/POS Bluetooth Thermal Receipt Printing, Android Foreground Telephony Daemons, Camera Barcode Scanners
+<div align="center">
 
-### ⚙️ Backend Engineering, Real-Time & Databases
-* **Server-Side Platforms**: Node.js 22 (ESM), Express 5, TypeScript, RESTful APIs, Server-Sent Events (SSE)
-* **Real-Time & Distributed Queues**: WebSockets (`ws`), BullMQ Durability Queues, Redis, Socket.io
-* **ORMs & Database Engines**: PostgreSQL 16, Prisma ORM 6, Drift ORM (SQLite with Write-Ahead Logging WAL), MongoDB, Qdrant Cloud (Vector DB)
-* **Integrations & Security**: Meta Business Cloud API, Google Maps Directions API, Razorpay Payment Gateway, Google Drive API, AES-256-GCM, HMAC-SHA256
+### 📱 Mobile Systems Engineering
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Kotlin_Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Android" />
+  <img src="https://img.shields.io/badge/Drift_SQLite_(WAL)-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite WAL" />
+  <img src="https://img.shields.io/badge/Foreground_Services-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Foreground Services" />
+  <img src="https://img.shields.io/badge/Bluetooth_ESC/POS-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="ESC/POS Bluetooth" />
+</p>
 
-### ☁️ Cloud, DevOps & Engineering Tooling
-* **Cloud Infrastructure**: Amazon Web Services (AWS EC2, AWS S3), Docker Containers, Nginx Reverse Proxy, PM2
-* **Tooling & Workflows**: Git, GitHub Actions CI/CD, Postman, Playwright (Web Crawling & Automation Testing)
+### ⚙️ Backend & Real-Time Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Node.js_22_(ESM)-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js 22" />
+  <img src="https://img.shields.io/badge/Express_5-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express 5" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/WebSockets_(ws)-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/BullMQ_Queues-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="BullMQ" />
+  <img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+</p>
+
+### 💻 Web & Frontend Engineering
+<p>
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 14" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4" />
+  <img src="https://img.shields.io/badge/Vite_6-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 🗄️ Databases & Search Engines
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL 16" />
+  <img src="https://img.shields.io/badge/Prisma_ORM_6-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM 6" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore" />
+  <img src="https://img.shields.io/badge/Qdrant_Vector_DB-DC2626?style=for-the-badge&logo=databricks&logoColor=white" alt="Qdrant" />
+</p>
+
+### ☁️ Cloud, DevOps & Security
+<p>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/AES--256--GCM-4B5563?style=for-the-badge&logo=auth0&logoColor=white" alt="AES-256" />
+  <img src="https://img.shields.io/badge/HMAC--SHA256-4B5563?style=for-the-badge&logo=1password&logoColor=white" alt="HMAC-SHA256" />
+  <img src="https://img.shields.io/badge/Zod_Validation-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+</p>
+
+</div>
 
 ---
 
