@@ -1,218 +1,434 @@
+# Sathish Dev | Flutter Developer & Full Stack Systems Engineer — Coimbatore, India
+
 <div align="center">
-
-# Hi, I am Sathish G
-### Full-Stack Software Engineer & Mobile Systems Architect
-**Building resilient mobile platforms, real-time distributed gateways, and offline-first enterprise software.**
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=16F2B3&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sathish+G!+👋;Full-Stack+Software+Engineer+%26+Mobile+Architect;Flutter+%7C+Node.js+22+%7C+PostgreSQL+%7C+React+19;Building+Mission-Critical+Real-Time+Systems;Offline-First+POS+%7C+Distributed+SMS+Gateways;Open+to+Exciting+Engineering+Opportunities!" alt="Sathish Dev Typing SVG" />
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.sathishdev.in-16F2B3?style=for-the-badge&logo=google-chrome&logoColor=000)](https://www.sathishdev.in)
-[![Google Play](https://img.shields.io/badge/Google_Play-Developer_Apps-25D366?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6517030172709793171)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sathishgobi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathishgobi/)
-[![Email](https://img.shields.io/badge/Email-sathishg.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathishg.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Sathish4439-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sathish4439)
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Sathish4439&label=Profile%20Views&color=16F2B3&style=for-the-badge)
+  ![GitHub Followers](https://img.shields.io/github/followers/Sathish4439?label=Followers&style=for-the-badge&color=16F2B3)
+  ![GitHub Stars](https://img.shields.io/github/stars/Sathish4439?label=Stars&style=for-the-badge&color=16F2B3)
+  ![Repositories](https://img.shields.io/badge/Repositories-36-blue?style=for-the-badge&logo=github&logoColor=white)
+  
+</div>
 
 <br/>
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
-[![Node.js 22](https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express 5](https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Next.js 14](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![PostgreSQL 16](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Prisma ORM 6](https://img.shields.io/badge/Prisma_6-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io)
-[![Redis](https://img.shields.io/badge/Redis_BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
-[![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)](https://aws.amazon.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
+<div align="center">
+  <a href="https://www.sathishdev.in" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-www.sathishdev.in-16F2B3?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=6517030172709793171" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Google_Play-Developer_Page-25D366?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" />
+  </a>
+  <a href="https://github.com/Sathish4439" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sathishgobi/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/5119__sathishg_d4ba94816" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://hashnode.com/@sathish4439" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+  <a href="https://medium.com/@aravindsathish0885" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://leetcode.com/u/aravindsathish0885/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:sathishg.dev@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
+<br/>
+
+## 👨‍💻 About Me
+
+Hi, I'm **Sathish G** (professionally known as **Sathish Dev**), a **Full Stack Software Engineer** and **Mobile Systems Architect** based in **Coimbatore, Tamil Nadu, India**. Currently engineering production software at **Dhigrowth**.
+
+With **2+ years** of hands-on production engineering experience, I design, architect, and ship high-performance cross-platform mobile apps (Flutter/Dart, Kotlin) and high-throughput real-time web backends (**Node.js 22, Express 5, TypeScript, Prisma ORM, PostgreSQL, Redis, BullMQ, and AWS**). My technical specializations revolve around **100% offline-first local databases (Drift SQLite WAL)**, **real-time telecommunications gateways**, **Bluetooth thermal printing hardware (ESC/POS)**, and **cryptographically hardened microservices**.
+
+💼 **Available for full-time senior engineering opportunities (On-site / Hybrid / Remote) and select high-impact technical contracts.**
+
+---
+
+## 🎯 Quick Reference for Recruiters & Hiring Managers
+
+| Key Detail | Information |
+| :--- | :--- |
+| **Core Specialization** | Mobile Systems (Flutter/Dart/Android) & Full-Stack Real-Time Backends (Node.js/Prisma/PostgreSQL) |
+| **Current Role** | Full-Stack Software Engineer at **Dhigrowth** (September 2025 – Present) |
+| **Location Target** | Coimbatore, Bangalore, Chennai, Karur (Open to Hybrid, On-site, and Worldwide Remote) |
+| **Databases & Queues** | PostgreSQL 16, Prisma ORM 6, Drift (SQLite WAL), Redis, BullMQ, MongoDB, Qdrant Vector DB |
+| **Engineering Strengths** | Offline-First Sync, Full-Duplex WebSockets, Native Telephony Daemons, AES-256-GCM, Clean MVVM |
+
+---
+
+## 🎯 Recruitment Highlights (Why Hire Me?)
+
+- 🚀 **End-to-End System Ownership**: Proven capability driving full lifecycles—from low-level native Android background telephony daemons and Bluetooth hardware byte-streaming to containerized cloud APIs on **AWS EC2**.
+- 🛠️ **Production-Proven Domain Range**: Shipped enterprise-scale systems including **Distributed Cellular SMS Gateways**, **100% Offline-First Supermarket POS ERPs**, **Multi-app On-Demand Logistics Networks**, and **Education Portals (LMS)**.
+- ⚡ **Zero-Downtime & High Reliability**: Dedicated advocate of offline-resilient local architectures (Write-Ahead Logging SQLite), durable queue processing with BullMQ, and cryptographically verified webhook pipelines.
+- 🌍 **Location & Engagement Flexibility**: Available for on-site / hybrid roles in **Bangalore**, **Chennai**, **Coimbatore**, or globally remote engagements.
+
+---
+
+## 🛠️ Technology Stack & Competencies
+
+### 📱 Mobile & Frontend Engineering
+* **Frameworks & Languages**: Flutter, Dart, Kotlin Android Native, React 19, Next.js 14, TypeScript, JavaScript (ES6+)
+* **UI & Styling**: Responsive Web Design, Tailwind CSS 4, HTML5, CSS3, High-Density Telemetry Dashboards
+* **State Management & Architecture**: Provider, GetX, React Hooks, Clean Modular MVVM Architecture
+* **Hardware & Device Protocols**: ESC/POS Bluetooth Thermal Receipt Printing, Android Foreground Telephony Daemons, Camera Barcode Scanners
+
+### ⚙️ Backend Engineering, Real-Time & Databases
+* **Server-Side Platforms**: Node.js 22 (ESM), Express 5, TypeScript, RESTful APIs, Server-Sent Events (SSE)
+* **Real-Time & Distributed Queues**: WebSockets (`ws`), BullMQ Durability Queues, Redis, Socket.io
+* **ORMs & Database Engines**: PostgreSQL 16, Prisma ORM 6, Drift ORM (SQLite with Write-Ahead Logging WAL), MongoDB, Qdrant Cloud (Vector DB)
+* **Integrations & Security**: Meta Business Cloud API, Google Maps Directions API, Razorpay Payment Gateway, Google Drive API, AES-256-GCM, HMAC-SHA256
+
+### ☁️ Cloud, DevOps & Engineering Tooling
+* **Cloud Infrastructure**: Amazon Web Services (AWS EC2, AWS S3), Docker Containers, Nginx Reverse Proxy, PM2
+* **Tooling & Workflows**: Git, GitHub Actions CI/CD, Postman, Playwright (Web Crawling & Automation Testing)
+
+---
+
+## 🚀 Flagship Software Engineering Projects
+
+### 1. FlatSMS — Distributed Android SMS Gateway & Control Plane
+* **Objective**: Replace expensive commercial CPaaS telecommunication providers (Twilio/MessageBird) by transforming commodity Android devices with domestic SIMs into a programmable, API-driven 2-way SMS gateway.
+* **Architecture & Delivery**: Architected an event-driven cloud control plane using **Node.js 22**, **Express 5**, and **TypeScript** communicating over persistent full-duplex **WebSockets** to native Android background daemons.
+* **Engineering Highlights**:
+  * Engineered a **Redis-backed BullMQ** pipeline guaranteeing zero-loss message queues with exponential backoff retries and priority dispatching.
+  * Enforced end-to-end security via **AES-256-GCM** payload encryption and outbound **HMAC-SHA256** signed webhooks for third-party verification.
+  * Designed a high-density, real-time operations console in **React 19**, **Vite**, and **Tailwind CSS 4**.
+* **Role**: Principal Architect & Lead Engineer (Dhigrowth)
+* **Tech Stack**: `Node.js 22` • `TypeScript` • `Express 5` • `BullMQ` • `Redis` • `Prisma ORM` • `PostgreSQL` • `Kotlin Android` • `React 19` • `Tailwind CSS 4`
+* **Proof**: [Interactive Portfolio Case Study](https://www.sathishdev.in/work/flatsms-sms-gateway)
+
+---
+
+### 2. MyShop — Offline-First Retail Grocery POS & ERP
+* **Objective**: Eliminate cash register freezes and billing counter downtime in busy supermarkets and retail grocery stores during intermittent or absent internet connectivity.
+* **Architecture & Delivery**: Built a 100% offline-first POS client in **Flutter** backed by **Drift (SQLite)** utilizing **Write-Ahead Logging (WAL)** for sub-millisecond local reads and instantaneous checkout speed.
+* **Engineering Highlights**:
+  * Implemented direct low-level **ESC/POS byte-stream printing** over Bluetooth for sub-300ms physical thermal receipts without raster lag.
+  * Integrated sub-second camera barcode recognition and strict double-entry balance sheets for customer credit lines.
+  * Designed automated background database reconciliation syncing with a **Node.js/Prisma** cloud backend and a **Next.js 14** Super Admin dashboard.
+* **Role**: Principal Architect & Lead Engineer (Dhigrowth)
+* **Tech Stack**: `Flutter` • `Dart` • `Drift ORM (SQLite WAL)` • `Node.js` • `TypeScript` • `Express 5` • `Prisma` • `PostgreSQL` • `Next.js 14` • `ESC/POS Bluetooth`
+* **Proof**: [Interactive Portfolio Case Study](https://www.sathishdev.in/work/myshop-pos)
+
+---
+
+### 3. Mayiliragu Academy LMS (Learning Management System)
+* **Objective**: Scale a reliable digital learning and examination portal for thousands of students preparing for competitive government examinations.
+* **Architecture & Delivery**: Engineered a cross-platform **Flutter** student application, a **React/Vite** admin portal, and a robust **Node.js/Prisma** backend deployed on **AWS EC2**.
+* **Engineering Highlights**:
+  * Integrated **Google Drive API** secure proxy pipelines for tamper-resistant educational video streaming and document access.
+  * Built an interactive, timed mock exam engine with detailed performance analytics and instant answer keys.
+  * Enforced single-device binding through **Firebase Authentication** to prevent unauthorized account sharing.
+* **Role**: Lead Full Stack Engineer (Freelance)
+* **Tech Stack**: `Flutter` • `React` • `TypeScript` • `Vite` • `Node.js` • `Express` • `Prisma` • `PostgreSQL` • `Firebase Auth` • `AWS EC2`
+* **Proof**: [Google Play Store App](https://play.google.com/store/apps/details?id=com.learning.mayiliragu.mayiliragu)
+
+---
+
+### 4. Judah Food Delivery Suite (User, Driver & Merchant Partner)
+* **Objective**: Overhaul local restaurant dispatching and delivery logistics by synchronizing customers, kitchen partners, and riders in real-time.
+* **Architecture & Delivery**: Engineered a connected 3-app ecosystem using **Flutter** interacting with a high-throughput **Node.js/Prisma** backend.
+* **Engineering Highlights**:
+  * Deployed bidirectional **Socket.io** channels for instantaneous order handoffs and sub-second live GPS rider telemetry.
+  * Integrated **Google Maps Directions API** for dynamic polyline rendering and accurate automated ETA calculations.
+  * Managed transactional payment lifecycles through **Razorpay** with cryptographically verified webhook verification and idempotency.
+* **Role**: Lead Software Engineer (Dhigrowth)
+* **Tech Stack**: `Flutter` • `Dart` • `Socket.io` • `Node.js` • `Express` • `Prisma` • `PostgreSQL` • `Google Maps API` • `Razorpay` • `AWS EC2`
+* **Proof**: [Google Play Store Release](https://play.google.com/store/apps/details?id=com.judah.fooddelivery)
+
+---
+
+### 5. WhatsApp Sender Automation (SaaS Messaging Utility)
+* **Objective**: Enable automated bulk transactional notifications and scheduled alerts directly connected with business CRM databases.
+* **Architecture & Delivery**: Built a management dashboard paired with a scalable Node.js/Express backend integrating official **Meta Business Cloud APIs**.
+* **Engineering Highlights**:
+  * Implemented high-reliability message queues and real-time webhook listeners to monitor message delivery states.
+  * Protected outgoing endpoints with strict rate limiting and token rotation.
+* **Role**: Full Stack Developer (Freelance)
+* **Tech Stack**: `Flutter` • `Dart` • `Node.js` • `Express` • `Meta Business Cloud API` • `MongoDB` • `Webhooks`
+* **Proof**: [View on GitHub](https://github.com/Sathish4439/whatsapp-sender-api)
+
+---
+
+### 6. AI-Powered RAG System & Chatbot Dashboard
+* **Objective**: Build a real-time Retrieval-Augmented Generation (RAG) system to query unstructured enterprise PDFs and dynamic web pages with zero hallucinations.
+* **Architecture & Delivery**: Implemented dynamic crawling via **Playwright**, semantic chunking, and high-dimensional embeddings indexed into **Qdrant Cloud Vector Database**.
+* **Engineering Highlights**:
+  * Synthesized contextual answers using **Groq (LLaMA 3.1)** streamed via **Server-Sent Events (SSE)** for zero-latency response generation.
+  * Built a rich Flutter client displaying real-time citations and source document previews.
+* **Role**: Full Stack Developer (Freelance)
+* **Tech Stack**: `Flutter` • `Dart` • `Node.js` • `TypeScript` • `Qdrant Cloud` • `Groq API (LLaMA 3.1)` • `Playwright` • `Server-Sent Events (SSE)`
+
+---
+
+## 📁 Complete Software Engineering Portfolio
+
+<details>
+<summary><b>Click to expand and view my complete software engineering portfolio (14+ Projects)</b></summary>
+
+<br/>
+
+### 7. akirva Auto Rider & Driver Ecosystem
+* **Description**: Real-time ride-hailing network comprising interconnected Flutter applications for passengers and auto-rickshaw drivers with a React Web Admin console.
+* **Role**: Flutter Developer & UI Architect (Dhigrowth)
+* **Tech Stack**: `Flutter` • `Dart` • `Firebase Firestore` • `Node.js` • `Express` • `Google Maps API` • `React`
+
+### 8. Nest Pilot Hostel SaaS
+* **Description**: Modern facility and hostel management application streamlining room rent tracking, automated billing, and tenant complaint tickets.
+* **Role**: Full Stack Engineer (Dhigrowth)
+* **Tech Stack**: `Flutter` • `GetX` • `Firebase` • `React` • `Node.js` • `Express` • `PostgreSQL` • `AWS EC2`
+
+### 9. Premium Parts Operations ERP
+* **Description**: Enterprise operations app for automotive parts distributors, featuring geo-fenced attendance, QR inventory scanning, and automated PDF invoicing.
+* **Role**: Full Stack Developer (Freelance)
+* **Tech Stack**: `Flutter` • `Dart` • `Node.js` • `Express` • `PostgreSQL` • `Prisma` • `Google Maps API` • `QR Scanning` • `PDF Generation`
+
+### 10. Splendour Park Management Suite
+* **Description**: Wholesale menswear manufacturing, distribution, labor piece-rate attendance, and customer ledger management platform.
+* **Role**: Full Stack Developer (Dhigrowth)
+* **Tech Stack**: `Flutter` • `Dart` • `SQLite` • `Node.js` • `Express` • `AWS S3` • `PDF Generation`
+
+### 11. Virtual to Live
+* **Description**: Digital discovery marketplace connecting users with local venues, real estate, and education via interactive 360-degree virtual reality tours.
+* **Role**: Flutter Developer (Elanoxtech)
+* **Tech Stack**: `Flutter` • `GetX` • `Firebase` • `Google Maps` • `Razorpay` • `360 Video Player`
+
+### 12. Ovantica
+* **Description**: Trusted Indian re-commerce mobile app for valuation, diagnostic assessment, and sale of refurbished smartphones and consumer electronics.
+* **Role**: Flutter Developer (Elanoxtech)
+* **Tech Stack**: `Flutter` • `GetX` • `Firebase` • `Google Maps` • `Razorpay` • `Live Tracking`
+
+### 13. lalassa
+* **Description**: Comprehensive pet care ecosystem providing verified veterinary care booking, grooming scheduling, and pet sitting services.
+* **Role**: Flutter Developer (Elanoxtech)
+* **Tech Stack**: `Flutter` • `GetX` • `Firebase`
+
+### 14. Aptimaster & Velocy Tax
+* **Description**: Interactive EdTech aptitude test-taking portal with video caching and urban taxi dispatch system with real-time driver mapping.
+* **Role**: Full Stack Developer (Dhigrowth)
+* **Tech Stack**: `Flutter` • `GetX` • `PostgreSQL` • `Node.js` • `Socket.io` • `Razorpay`
+
+</details>
+
+---
+
+## 📱 Published Mobile Applications
+
+I publish and maintain production Android applications on Google Play:
+
+| Application | Description | Architecture / Tech Highlights | Store Status |
+| :--- | :--- | :--- | :--- |
+| **Mayiliragu Academy** | Comprehensive civil exam LMS with secure video & exams | Flutter + Node.js + AWS EC2 + Google Drive API | [Live on Play Store](https://play.google.com/store/apps/details?id=com.learning.mayiliragu.mayiliragu) |
+| **Judah Food Delivery** | Customer, Rider, and Partner 3-app on-demand ecosystem | Flutter + Socket.io + Google Maps + Razorpay | [Live on Play Store](https://play.google.com/store/apps/details?id=com.judah.fooddelivery) |
+| **Premium Parts ERP** | Automotive parts operations with QR scanning & ledgers | Flutter + Offline SQLite + Node.js + Prisma | Enterprise Live |
+| **Nest Pilot Hostel** | Hostel & PG room rent, utility billing, and ticketing | Flutter + React Admin + Node.js + PostgreSQL | [Play Store (Staging)](https://play.google.com/store/apps/details?id=com.nestpilot.dhigrowth&pcampaignid=web_share) |
+
+🔗 **Google Play Developer Account**: [Sathish Dev Developer Profile](https://play.google.com/store/apps/dev?id=6517030172709793171)  
+🌐 **Official Portfolio**: [www.sathishdev.in](https://www.sathishdev.in)
+
+---
+
+## 💻 Featured GitHub Repositories
+
+<div align="center">
+  <p>Selected open-source repositories and engineering architectures on GitHub:</p>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚀 [FlatSMS](https://github.com/Sathish4439/FlatSMS)
+**Distributed Android SMS Gateway & Control Plane**  
+High-throughput cloud control plane turning Android devices into programmable 2-way SMS telecommunications infrastructure over WebSockets, BullMQ, Redis, and React 19.  
+💻 **Tech:** `Node.js 22` • `TypeScript` • `BullMQ` • `Redis` • `WebSockets` • `React 19`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛒 [MyShop](https://github.com/Sathish4439/MyShop)
+**Offline-First Retail Grocery POS & ERP**  
+100% offline-resilient Flutter grocery billing engine with Drift SQLite WAL, sub-300ms Bluetooth ESC/POS thermal printing, and Next.js 14 super admin portal.  
+💻 **Tech:** `Flutter` • `Dart` • `Drift (SQLite WAL)` • `ESC/POS` • `Next.js 14`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎓 [Mayiliragu-Academy](https://github.com/Sathish4439/Mayiliragu-Academy)
+**Enterprise Learning Management System (LMS)**  
+Full-scale education suite featuring a Flutter student app, React admin exam engine, and Node.js/Prisma microservices on AWS EC2.  
+💻 **Tech:** `Flutter` • `React` • `Node.js` • `Prisma` • `PostgreSQL` • `AWS EC2`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛵 [Judah-Food-Delivery](https://github.com/Sathish4439/Judah-Food-Delivery)
+**3-App Real-Time On-Demand Dispatch Suite**  
+Multi-role logistics platform connecting customers, kitchen partners, and dispatch riders in real-time with Socket.io and Google Maps routing.  
+💻 **Tech:** `Flutter` • `Socket.io` • `Node.js` • `Prisma` • `Google Maps`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💬 [whatsapp-sender-api](https://github.com/Sathish4439/whatsapp-sender-api)
+**Meta Business Cloud API Automation Engine**  
+Enterprise WhatsApp notification utility with asynchronous webhook listeners, MongoDB message queues, and scheduled campaigns.  
+💻 **Tech:** `Node.js` • `Express` • `Meta Cloud API` • `MongoDB` • `Webhooks`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 [rag-chatbot-engine](https://github.com/Sathish4439/rag-chatbot-engine)
+**Full-Stack RAG Vector Search & Streaming Chatbot**  
+Retrieval-Augmented Generation pipeline using Playwright scraping, Qdrant Cloud vector search, and real-time SSE streaming with Groq LLaMA 3.1.  
+💻 **Tech:** `Node.js` • `TypeScript` • `Qdrant` • `Groq API` • `Flutter` • `SSE`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/Sathish4439?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View-All%20Repositories-16F2B3?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+  </a>
 </div>
 
 ---
 
-## Quick Executive Summary
+## 💼 Professional Work Experience
 
-* **Current Role:** Full-Stack Software Engineer at **Dhigrowth** (Sep 2025 - Present, Hybrid).
-* **Core Focus:** Production Mobile (Flutter/Dart/Android), Distributed Gateways (Node.js 22, BullMQ, Redis, WebSockets), and Offline-First Local Data Architectures.
-* **Location:** Coimbatore, Tamil Nadu, India (Open to Remote / Hybrid / On-site roles globally).
-* **Portfolio:** [www.sathishdev.in](https://www.sathishdev.in) | **Play Store:** [Sathish Dev Developer Profile](https://play.google.com/store/apps/dev?id=6517030172709793171)
+### 1. Full Stack Software Engineer
+**Dhigrowth** | Coimbatore, TN (Hybrid) | *September 2025 – Present*
+- Architected **FlatSMS**: High-throughput distributed cellular SMS gateway bridging cloud Node.js with native Kotlin Android daemons over WebSockets.
+- Engineered **MyShop**: 100% offline-first grocery POS with Drift SQLite (WAL) and ESC/POS Bluetooth thermal receipt printing.
+- Built **Judah Food Delivery**: Complete 3-app on-demand ordering and dispatch network with real-time Socket.io GPS tracking.
+- Developed **Nest Pilot** (hostel management SaaS) and **akirva** (auto-rickshaw ride-hailing network) with containerized AWS backends.
+
+### 2. Flutter Mobile Developer
+**Elanoxtech** | Chennai, TN (On-site) | *July 2024 – September 2025*
+- Built consumer mobile applications including **Virtual to Live** (360° virtual reality tours) and **Ovantica** (gadget re-commerce marketplace).
+- Integrated Google Maps live navigation, Firestore real-time listeners, and Razorpay transactional payment flows.
+- Optimized mobile rendering pipelines and memory overhead across diverse Android device tiers.
+
+### 3. Independent Software Engineer
+**Client Engagements** | Coimbatore & Karur, TN | *June 2023 – June 2024*
+- Designed and shipped the **Mayiliragu Academy LMS** (Flutter mobile client, React admin, Node.js/Prisma backend on AWS EC2).
+- Built **WhatsApp Sender Automation** SaaS platform leveraging official Meta Cloud APIs.
+- Delivered **Premium Parts ERP** with offline-first SQLite sync and automated PDF invoice generation.
 
 ---
 
-## Technical Competence Matrix
+## 🎓 Education & Background
 
-| Domain | Primary Technologies & Systems |
+### 🎓 Bachelor of Technology in Information Technology (B.Tech IT)
+**VSB Engineering College** | *2020 – 2024*
+
+### 🏫 Secondary School Certificate
+**Malar Matriculation Higher Secondary School** | *2018 – 2020*
+
+---
+
+## 🔨 Currently Engineering
+
+* 📡 **FlatSMS Gateway** — High-Throughput Cloud Control Plane & Android Telephony Bridge (**Node.js 22 + BullMQ + React 19**)
+* 🛒 **MyShop POS** — 100% Offline-First Supermarket POS with ESC/POS Bluetooth Printing (**Flutter + Drift SQLite WAL**)
+* 🎓 **Mayiliragu Academy LMS** — Secure Video Streaming & Exam Engine (**Flutter + Node.js + AWS EC2**)
+* 🛵 **Judah Food Delivery** — Real-Time 3-App Logistics Platform (**Flutter + Socket.io + Google Maps**)
+
+---
+
+## 🌐 Find Me Online
+
+| Platform | URL / Connection |
 | :--- | :--- |
-| **Mobile Engineering** | **Flutter**, **Dart**, **Kotlin Android**, Provider / MVVM, Foreground Services, Drift SQLite (WAL), ESC/POS Bluetooth Thermal Printing |
-| **Backend & Real-Time** | **Node.js 22 (ESM)**, **Express 5**, **TypeScript**, WebSockets, **BullMQ Queues**, **Redis**, Socket.io, Server-Sent Events (SSE) |
-| **Web & Frontend** | **React 19**, **Next.js 14 (App Router)**, **TypeScript**, Tailwind CSS 4, Vite, High-Density Operations Consoles |
-| **Databases & Storage** | **PostgreSQL 16**, **Prisma ORM 6**, **Drift (SQLite WAL)**, MongoDB, Qdrant Cloud Vector Database |
-| **Security & Protocols** | **AES-256-GCM** Payload Encryption, **HMAC-SHA256** Webhook Signing, Zod Schema Validation, JWT, RESTful APIs |
-| **Cloud & DevOps** | **AWS EC2**, **AWS S3**, **Docker Containers**, Nginx Reverse Proxy, PM2 Process Manager, GitHub Actions CI/CD |
+| **🌐 Portfolio Website** | [https://www.sathishdev.in](https://www.sathishdev.in) |
+| **💼 LinkedIn Profile** | [https://linkedin.com/in/sathishgobi](https://www.linkedin.com/in/sathishgobi/) |
+| **🐙 GitHub Account** | [https://github.com/Sathish4439](https://github.com/Sathish4439) |
+| **📱 Google Play** | [Sathish Dev Play Store Apps](https://play.google.com/store/apps/dev?id=6517030172709793171) |
+| **📝 Dev.to Blog** | [https://dev.to/5119__sathishg_d4ba94816](https://dev.to/5119__sathishg_d4ba94816) |
+| **🔖 Hashnode Blog** | [https://hashnode.com/@sathish4439](https://hashnode.com/@sathish4439) |
+| **✍️ Medium** | [https://medium.com/@aravindsathish0885](https://medium.com/@aravindsathish0885) |
+| **📧 Professional Email** | [sathishg.dev@gmail.com](mailto:sathishg.dev@gmail.com) |
+| **📍 Physical Base** | Coimbatore, Tamil Nadu, India |
 
 ---
 
-## Flagship Engineering Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>1. FlatSMS - Distributed SMS Gateway</h3>
-      </div>
-      <p><b>High-throughput cloud control plane turning Android devices with domestic SIMs into a programmable 2-way SMS telecommunications infrastructure.</b></p>
-      <ul>
-        <li><b>Cost Replacement:</b> Eliminates exorbitant per-segment charges of CPaaS (Twilio) by pairing Node.js cloud orchestration with native Kotlin Android daemons over persistent <b>WebSockets</b>.</li>
-        <li><b>Message Durability:</b> Redis-backed <b>BullMQ</b> processing engine with exponential retries and sub-5s outbound delivery guarantees.</li>
-        <li><b>Cryptographic Hardening:</b> Enforced <code>AES-256-GCM</code> payload encryption and <code>HMAC-SHA256</code> signed webhooks.</li>
-        <li><b>Operations Console:</b> Built with <b>React 19</b>, Vite, and Tailwind CSS 4 for real-time device telemetry.</li>
-      </ul>
-      <p align="center">
-        <code>Node.js 22</code> | <code>BullMQ</code> | <code>Redis</code> | <code>WebSockets</code> | <code>Prisma</code> | <code>React 19</code><br/><br/>
-        <a href="https://www.sathishdev.in/work/flatsms-sms-gateway"><b>View Interactive Architecture Case Study</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>2. MyShop - Offline-First Retail POS</h3>
-      </div>
-      <p><b>100% offline-resilient Point of Sale (POS) and inventory accounting platform designed for supermarket checkout speeds.</b></p>
-      <ul>
-        <li><b>Zero-Latency Engine:</b> Built in <b>Flutter</b> backed by <b>Drift (SQLite)</b> with Write-Ahead Logging (WAL) for 0ms dependency on external cloud networks.</li>
-        <li><b>Hardware Integration:</b> Low-level <b>ESC/POS byte-stream printing</b> over Bluetooth delivering sub-300ms physical thermal receipts.</li>
-        <li><b>Financial Integrity:</b> Strict double-entry accounting ledgers for customer credit lines with automated sync to a <b>Next.js 14</b> Super Admin.</li>
-        <li><b>Barcode Lookup:</b> Sub-second camera barcode recognition and real-time inventory ledger updates.</li>
-      </ul>
-      <p align="center">
-        <code>Flutter</code> | <code>Drift (SQLite WAL)</code> | <code>ESC/POS</code> | <code>Node.js</code> | <code>Next.js 14</code><br/><br/>
-        <a href="https://www.sathishdev.in/work/myshop-pos"><b>View Interactive Architecture Case Study</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>3. Mayiliragu Academy LMS</h3>
-      </div>
-      <p><b>Enterprise digital learning ecosystem scaled for competitive government examination aspirants with interactive exam engines.</b></p>
-      <ul>
-        <li><b>Multi-Platform Suite:</b> Cross-platform <b>Flutter</b> student mobile application + <b>React Vite</b> curriculum and exam management dashboard.</li>
-        <li><b>Secure Content Delivery:</b> Node.js/Prisma microservices on <b>AWS EC2</b> integrating Google Drive API for tamper-resistant video streaming.</li>
-        <li><b>Device Integrity:</b> Firebase Authentication with automated single-device binding to prevent unauthorized credential sharing.</li>
-      </ul>
-      <p align="center">
-        <code>Flutter</code> | <code>React</code> | <code>Node.js</code> | <code>Prisma</code> | <code>PostgreSQL</code> | <code>AWS EC2</code><br/><br/>
-        <a href="https://play.google.com/store/apps/details?id=com.learning.mayiliragu.mayiliragu"><b>View on Google Play Store</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>4. Judah Food Delivery Suite</h3>
-      </div>
-      <p><b>Unified 3-app on-demand logistics ecosystem connecting customers, kitchen merchants, and delivery riders in real-time.</b></p>
-      <ul>
-        <li><b>Real-Time Dispatch:</b> Bidirectional communication using <b>Socket.io</b> channels for instantaneous dispatch and sub-second GPS tracking.</li>
-        <li><b>Routing Intelligence:</b> Automated dynamic routing and precise ETA calculation via Google Maps Directions API.</li>
-        <li><b>Idempotent Payments:</b> Integrated <b>Razorpay</b> payment gateway lifecycle with cryptographically verified webhook listeners.</li>
-      </ul>
-      <p align="center">
-        <code>Flutter</code> | <code>Socket.io</code> | <code>Node.js</code> | <code>PostgreSQL</code> | <code>Google Maps</code><br/><br/>
-        <a href="https://play.google.com/store/apps/details?id=com.judah.fooddelivery"><b>View on Google Play Store</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Production Track Record
-
-| Application | Engineering Role | Architecture & Tech Stack | Target Platforms | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **FlatSMS Gateway** | Principal Architect | Node.js 22, Express 5, WebSockets, BullMQ, Redis, React 19 | Web + Android Daemon | `Active Production` |
-| **MyShop POS ERP** | Principal Architect | Flutter, Drift SQLite (WAL), Node.js, Next.js 14, ESC/POS | Android + Web Admin | `Active Production` |
-| **Mayiliragu LMS** | Lead Full-Stack Engineer | Flutter, React, TypeScript, Node.js, Prisma, AWS EC2 | Android + Web Admin | [Live on Google Play](https://play.google.com/store/apps/details?id=com.learning.mayiliragu.mayiliragu) |
-| **Judah Logistics** | Lead Software Engineer | Flutter (3 Apps), Socket.io, Node.js, Google Maps API | Android (3 Applications) | [Live on Google Play](https://play.google.com/store/apps/details?id=com.judah.fooddelivery) |
-| **Premium Parts ERP** | Full-Stack Developer | Flutter, Node.js, Prisma, PostgreSQL, QR Scanner, PDF | Android + Web Admin | `Enterprise Deployed` |
-| **akirva Auto Ride** | Mobile UI Architect | Flutter (2 Apps), Firebase Firestore, Google Maps API | Android + Web Admin | `Enterprise Deployed` |
-| **Nest Pilot Hostel** | Full-Stack Engineer | Flutter, React, Node.js, PostgreSQL, AWS EC2 | Android + Web Admin | [Play Store (Staging)](https://play.google.com/store/apps/details?id=com.nestpilot.dhigrowth&pcampaignid=web_share) |
-
----
-
-## Professional Experience
-
-```yaml
-Dhigrowth: Full-Stack Software Engineer (Sep 2025 - Present, Coimbatore TN)
-  - Architected FlatSMS: Real-time Android cellular SMS gateway with BullMQ & WebSockets.
-  - Engineered MyShop: Offline-first grocery POS with Drift SQLite and ESC/POS thermal printing.
-  - Built Judah Food Delivery: Multi-role on-demand dispatch platform with real-time Socket.io GPS tracking.
-  - Developed Nest Pilot & akirva: Ride-hailing network and hostel management SaaS.
-
-Elanoxtech: Flutter Mobile Developer (Jul 2024 - Sep 2025, Chennai TN)
-  - Developed Virtual to Live (360 virtual tour marketplace) and Ovantica (re-commerce mobile platform).
-  - Integrated Google Maps live tracking, Firestore real-time listeners, and Razorpay payment flows.
-
-Freelance Engagements: Full-Stack & Mobile Engineer (Jun 2023 - Jun 2024, Karur & Coimbatore TN)
-  - Deployed Mayiliragu Academy LMS on AWS EC2 with Flutter and React.
-  - Built WhatsApp Sender Automation SaaS utilizing official Meta Cloud APIs.
-  - Delivered Premium Parts ERP with offline SQLite sync and automated PDF generation.
-```
-
----
-
-## Featured Repositories
-
-<table>
-  <tr>
-    <td width="50%">
-      <b>1. <a href="https://github.com/Sathish4439/FlatSMS">FlatSMS</a></b><br/>
-      <i>High-throughput distributed Android SMS gateway & cloud control plane with Node.js 22, WebSockets, BullMQ, Redis, and React 19.</i>
-    </td>
-    <td width="50%">
-      <b>2. <a href="https://github.com/Sathish4439/MyShop">MyShop</a></b><br/>
-      <i>Offline-first Flutter retail grocery POS with Drift SQLite WAL, ESC/POS Bluetooth thermal printing, and Next.js 14 super admin.</i>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>3. <a href="https://github.com/Sathish4439/Mayiliragu-Academy">Mayiliragu-Academy</a></b><br/>
-      <i>Production LMS suite with Flutter student app, React admin portal, and Node.js/Prisma microservices on AWS EC2.</i>
-    </td>
-    <td width="50%">
-      <b>4. <a href="https://github.com/Sathish4439/Judah-Food-Delivery">Judah-Food-Delivery</a></b><br/>
-      <i>Real-time 3-app on-demand food delivery dispatch ecosystem with Flutter, Socket.io, and Google Maps Directions API.</i>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>5. <a href="https://github.com/Sathish4439/whatsapp-sender-api">whatsapp-sender-api</a></b><br/>
-      <i>Meta Business Cloud API automation engine with asynchronous webhook listeners and MongoDB queue tracking.</i>
-    </td>
-    <td width="50%">
-      <b>6. <a href="https://github.com/Sathish4439/rag-chatbot-engine">rag-chatbot-engine</a></b><br/>
-      <i>Full-stack RAG pipeline with Playwright crawling, Qdrant vector indexing, and real-time Groq LLaMA 3.1 streaming via SSE.</i>
-    </td>
-  </tr>
-</table>
-
----
-
-## Let us Connect
+## 📊 GitHub Profile Analytics
 
 <div align="center">
-
-**Open to Full-Time Senior Engineering Opportunities & Select High-Impact Contracts**
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sathish4439&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sathish4439&theme=tokyonight" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sathish4439&theme=tokyonight" alt="Most Committed" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sathish4439&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sathish4439&theme=tokyonight" alt="Productive Time" />
+  
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.sathishdev.in-16F2B3?style=for-the-badge&logo=google-chrome&logoColor=000)](https://www.sathishdev.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sathishgobi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathishgobi/)
-[![Email](https://img.shields.io/badge/Email-sathishg.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathishg.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Sathish4439-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sathish4439)
+## 📧 Let's Connect & Collaborate!
+
+<div align="center">
+  
+  <a href="https://www.sathishdev.in">
+    <img src="https://img.shields.io/badge/Portfolio-www.sathishdev.in-16F2B3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:sathishg.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sathishg.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/sathishgobi/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=6517030172709793171" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Google_Play-Developer_Page-25D366?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+  </a>
+  
+</div>
 
 <br/>
 
-<sub>Coimbatore, Tamil Nadu, India | Engineering with architectural rigor, high reliability, and verifiable proof.</sub>
+<div align="center">
+  
+  ### 💼 **Open to Professional Opportunities**
+  
+  - 🎯 **Full-time positions** in Software Engineering, Mobile Architecture, & Distributed Backends (Coimbatore, Bangalore, Chennai, Remote)
+  - 💻 **High-Impact Freelance / Contract projects** (Architecture consulting, MVP to production)
+  - 🤝 **Open source collaboration**
+  
+</div>
 
+---
+
+<div align="center">
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sathish4439&label=Profile%20views&color=16F2B3&style=for-the-badge" alt="Views Tracker" />
+    <img src="https://img.shields.io/github/followers/Sathish4439?label=Followers&style=for-the-badge&color=16F2B3" alt="Followers Count" />
+  </p>
+  
+  <p align="center">
+    <b>Crafted with precision by Sathish Dev | <a href="https://www.sathishdev.in">www.sathishdev.in</a></b>
+  </p>
+  
 </div>
